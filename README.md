@@ -14,15 +14,22 @@ identified what needs to be fixed. **Notes have been made in the comments of eac
 
 You must complete the following:
 1. Reach each class carefully.
-  a. Make sure you understand what the code is trying to accomplish.
-  b. Make sure you understand your objectives, if any. 
+  
+      a. Make sure you understand what the code is trying to accomplish.
+  
+      b. Make sure you understand your objectives, if any. 
+
 2. Complete your objectives.
-  a. Fix the class so that it compiles without any errors. 
-  b. Under the "Documentation" part of each class write a couple sentences describing what the class does. Note that the 
-     @param and @return keywords are provided for you as a reference and may not be used in the documentation for every class. 
+  
+      a. Fix the class so that it compiles without any errors. 
+  
+      b. Under the "Documentation" part of each class write a couple sentences describing what the class does. Note that the 
+         @param and @return keywords are provided for you as a reference and may not be used in the documentation for every class. 
+
 3. Run the program.
-  a. When the program runs, you can compare with the sample output below to make sure you get the expected result. Note that the 
-     sameple code does not input any invalid data and will not be caught by any exception methods. 
+  
+      a. When the program runs, you can compare with the sample output below to make sure you get the expected result. Note that the 
+         sameple code does not input any invalid data and will not be caught by any exception methods. 
 
 
 
